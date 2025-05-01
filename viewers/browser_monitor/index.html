@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>NUDGE Live Monitor</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="header">
+    <h1>NUDGE Live Iteration Monitor</h1>
+    <p>Track iteration output in real-time</p>
+  </div>
+  <div class="main">
+    <textarea id="outputLog" readonly></textarea>
+    <form id="goalForm">
+      <input type="text" id="goalInput" placeholder="Enter iteration goal..." />
+      <input type="number" id="intervalInput" placeholder="Interval (sec)" />
+      <button type="submit">Start</button>
+    </form>
+  </div>
+  <script src="monitor_logic.js"></script>
+</body>
+</html>
