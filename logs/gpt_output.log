@@ -1,0 +1,1 @@
+echo "Starting heartbeat GPT output log." >> ~/nudge/heartbeat_engine/logs/gpt_output.log
