@@ -1,0 +1,1 @@
+# Atomic output logging with SHA256 and temp file fallback

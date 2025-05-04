@@ -1,0 +1,1 @@
+# Iteration logic with persistent tracking

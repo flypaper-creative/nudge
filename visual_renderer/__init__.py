@@ -1,0 +1,1 @@
+# SVG, PNG, JPG rendering logic for design outputs
